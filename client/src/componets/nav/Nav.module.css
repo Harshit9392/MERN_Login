@@ -1,0 +1,47 @@
+.mainNav{
+   color: white;
+   background-color:rgb(215, 120, 18);
+   display:flex;
+   justify-content: space-between;
+   padding: 15px ;
+
+}
+
+
+.rightSideNav{
+   display: flex;
+   align-items: left;
+   justify-content: space-between;
+
+}
+
+.rightSideNav h3 {
+   margin: 0;
+}
+.rightSideNav i {
+   font-size: 30px;
+   margin-right: 10px;
+   
+}
+
+.container2{
+   display: flex;
+}
+
+
+
+.or{
+   display: inline-block;
+   margin-left: 3px;
+   margin-right: 3px;
+}
+
+.linkBTN{
+   color:rgb(1, 1, 1);
+   text-decoration: none;
+}
+.linkBTN:hover{
+   color:rgb(255, 255, 255);
+   text-decoration: underline;
+}
+
